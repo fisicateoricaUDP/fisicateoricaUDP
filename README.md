@@ -3,7 +3,7 @@
 - 🌱 We are currently working in the computation of radiative corrections to the SM/SUSY observables, 
 -  with the help of several specialized packages in Wolfram Mathemtica, FORM, Python, etc. 
 - 💞️ Any comment, suggestion and/or collaboration are very welcome. 
-- 📫 You can reach us trough the e-mails eareyesro@unal.edu.co, edilson.reyes@unipamplona.edu.co. 
+- 📫 You can reach us through the emails: eareyesro@unal.edu.co, edilson.reyes@unipamplona.edu.co. 
 
 <!---
 fisicateoricaUDP/fisicateoricaUDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
