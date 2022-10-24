@@ -1,7 +1,7 @@
-- 👋 Hi, We are the group @fisicateoricaUDP .
+- 👋 Hi, we are the group @fisicateoricaUDP from Pamplona University - Colombia.
 - 👀 We are interested in developing software for High Energy Physics. 
-- 🌱 We are currently working in the computation of radiative corrections to the SM/MSSM particle masses, 
--  with the help of several specialized packages in Wolfram Mathemtica and FORM. 
+- 🌱 We are currently working in the computation of radiative corrections to the SM/SUSY observables, 
+-  with the help of several specialized packages in Wolfram Mathemtica, FORM, Python, etc. 
 - 💞️ Any comment, suggestions and/or collaborations are very welcome. 
 - 📫 You can reach us trough the e-mails eareyesro@unal.edu.co, edilson.reyes@unipamplona.edu.co. 
 
