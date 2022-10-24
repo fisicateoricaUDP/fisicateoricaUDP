@@ -2,7 +2,7 @@
 - 👀 We are interested in developing software for High Energy Physics. 
 - 🌱 We are currently working in the computation of radiative corrections to the SM/SUSY observables, 
 -  with the help of several specialized packages in Wolfram Mathemtica, FORM, Python, etc. 
-- 💞️ Any comment, suggestions and/or collaborations are very welcome. 
+- 💞️ Any comment, suggestion and/or collaboration are very welcome. 
 - 📫 You can reach us trough the e-mails eareyesro@unal.edu.co, edilson.reyes@unipamplona.edu.co. 
 
 <!---
